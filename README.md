@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi, I'm Alaa 👋<br>🎓 Engineering Graduate | 💻 Data Science & Machine Learning Enthusiast  <br>📊 Skilled in Python, SQL, Excel | Interested in AI & Analytics<br>
+#  Hi, I'm Alaa 👋:
+# <br>🎓 Engineering Graduate | 💻 Data Science & Machine Learning Enthusiast  <br>📊 Skilled in Python, SQL, Excel | Interested in AI & Analytics<br>
 
 
 ## 🌐 Socials:
